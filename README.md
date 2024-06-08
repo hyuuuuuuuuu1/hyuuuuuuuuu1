@@ -1,1 +1,1 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Nanum+Pen+Script&size=30&pause=1000&color=F753C8&random=false&width=435&lines=I+love+python" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Nanum+Pen+Script&size=30&pause=1000&color=F753C8&random=false&width=435&lines=Hello+World!\n" alt="Typing SVG" /></a>
