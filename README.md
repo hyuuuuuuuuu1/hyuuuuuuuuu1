@@ -1,1 +1,1 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Nanum+Pen+Script&size=30&pause=1000&color=F753C8&random=false&width=435&lines=hyuuuuuuuuu1" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Nanum+Pen+Script&size=30&pause=1000&color=F753C8&random=false&width=435&lines=나랑 같이 룸카페 갈 사람..?" alt="Typing SVG" /></a>
