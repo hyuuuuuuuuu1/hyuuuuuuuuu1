@@ -1,1 +1,1 @@
-<marquee behavior="alternate" direction="up"><marquee behavior="alternate">안녀엉</marquee></marquee>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Nanum+Pen+Script&size=30&pause=1000&color=F753C8&random=false&width=435&lines=I+love+python" alt="Typing SVG" /></a>
